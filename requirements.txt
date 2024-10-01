@@ -1,0 +1,4 @@
+Flask==x.x.x
+Flask-SQLAlchemy==x.x.x
+Flask-Migrate==x.x.x
+Flask-JWT-Extended==x.x.x
